@@ -43,3 +43,61 @@ The scope of the project is a bank robbery game, which uses various aspects
 related to gameplay mechanisms where the game will be played from a first-person
 perspective, immersing the player in the role of a bank robber. The game aims to provide
 player with engaging gameplay and accomplishment as they execute successful heist.
+# HARDWARE REQUIREMENTS
+The project requires the following hardware components:
+• Processor: The processor is a vital component that handles the game's calculations
+and instructions. A quad-core Intel processor with a clock speed of 2.5 GHz or faster
+ensures that the game runs smoothly and efficiently. The processor's speed and core
+count directly impact the game's performance, allowing for seamless gameplay and
+quick response times.
+• RAM: Random Access Memory (RAM) is crucial for running the game and storing
+temporary data. With 8 GB of RAM, the game can load and run various assets,
+textures, and scripts without experiencing significant slowdowns. Sufficient RAM
+capacity ensures that the game operates smoothly, reduces loading times, and
+provides a seamless gaming experience.
+• Keyboard: A keyboard is an essential input device for controlling the game. Players
+can use the keyboard to navigate through menus, interact with in-game objects, and
+execute various actions. The keyboard allows for precise and responsive control,
+enabling players to execute their heists with precision and efficiency.
+• Mouse: A mouse is another crucial input device that enhances control and precision
+in the game. It enables players to aim accurately, perform smooth camera
+movements, and interact with the game's user interface. The mouse's sensitivity and
+responsiveness contribute to the overall gameplay experience.
+• Graphics Card: A graphics card is responsible for rendering the game's visuals,
+including characters, environments, and special effects. DirectX 11 or 12
+compatibility refers to support for Microsoft's graphics technology, which allows for
+advanced rendering techniques, improved performance, and visual fidelity. Metal 1.2
+compatibility, on the other hand, refers to Apple's graphics technology, offering
+similar benefits on macOS systems. A compatible graphics card ensures that the
+game's graphics are rendered smoothly, allowing players to enjoy high-quality
+visuals and immersive environments.
+# SOFTWARE'S USED
+•Epic Games Launcher: The Epic Games Launcher is a digital distribution platform
+and game launcher developed by Epic Games. It serves as a central hub for
+downloading, installing, and managing games developed using Unreal Engine.
+• Unreal Engine 5 (Version – 5.1.1): Unreal Engine 5 is a powerful and widely-used
+game development engine developed by Epic Games. It provides a comprehensive
+suite of tools, features, and resources for creating high-quality, visually stunning, and
+immersive games. The Heist Chronicles was developed using Unreal Engine 5,
+leveraging its advanced rendering capabilities, physics simulations, scripting system,
+and asset management tools.
+• Blender: Blender is a free and open-source 3D modelling, animation, and rendering
+software. It is widely used in the game development industry for creating 3D assets,
+including characters, environments, and props. In The Heist Chronicles, Blender was
+utilised for 3D modelling.
+• Adobe Mixamo: Adobe Mixamo is a web-based service that provides a vast library
+of 3D character animations.
+• Meta Sounds (Unreal Engine): Meta Sounds is a sound design tool and plugin
+integrated into Unreal Engine. It provides a powerful audio system for creating and
+implementing sound effects, ambient sounds, and music in games. 
+# SYSTEM DESIGN
+FLOW CHART
+Flowcharts were utilised as a visual representation to illustrate the game's design
+and mechanics. Flowcharts provide a structured and organised way to depict the flow of
+events, decision-making processes, and interactions within the game.
+They are particularly useful in game development as they help to convey complex systems
+and interactions in a clear and understandable manner. They serve as a blueprint for
+understanding the game's logic, progression, and player choices.
+![image](https://github.com/user-attachments/assets/cead91ac-faf6-40d1-a915-234690438eea)
+
+
